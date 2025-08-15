@@ -3,7 +3,8 @@
 ## Disciplina: Estrutura de Dados
 _Projeto Final_
 
-## O Jogo pode ser encontrado também em:  link https://onlinegdb.com/iA537MLTf**
+## O Jogo pode ser encontrado também em: 
+_link https://onlinegdb.com/iA537MLTf_
 
 ## 📖 Sobre o Projeto
 The Legend of 🐍 é uma implementação do clássico jogo da cobrinha, desenvolvida como **trabalho final da disciplina de Estrutura de Dados**.
